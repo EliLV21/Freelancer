@@ -25,6 +25,10 @@
   }
  .titulo{
    font-weight: bold;
+   font-size: 30px;
+   padding-top: 0;
+   padding-bottom: 0;
+   margin-top: 0;
    margin-bottom: 0;
  }
  #titulonavBar{
@@ -49,9 +53,49 @@ hr{
   border: 3px solid;
 }
 #portafolio{
-  padding-top: 12.499%;
+  padding-top: 8.333%;
   padding-bottom: 8.333%;
 }
 .imgPortafolio{
   width: 100%;
+  padding: 5%;
+}
+#about{
+  background-color: #19c3a8;
+  color: #fff;
+  padding-top: 8.333%;
+  padding-bottom: 8.333%;
+}
+.download{
+  background-color: transparent;
+  border-radius: 5px;
+  color: #fff;
+  border: 2px solid;
+  font-size: 18px;
+  width: 20.832%;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+#contactMe{
+    padding-top: 8.333%;
+    padding-bottom: 8.333%;
+}
+.contacto{
+  border: none;
+  color: #A4A4A4;
+  width: 100%;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 15px;
+  border-bottom: 1px solid #E6E6E6;
+}
+button{
+  padding: 10px;
+  background-color: #19c3a8;
+  border-radius: 5px;
+  border: 1px solid #19c3a8;
+  margin-right: 58.333%;
 }
